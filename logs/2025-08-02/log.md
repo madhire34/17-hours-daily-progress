@@ -1,13 +1,12 @@
 # Daily Log — 2025-08-02
-**Total Hours Worked:** 17
-
-## Sessions
-- **06:00 AM - 09:00 AM** → Java DSA
-- **09:15 AM - 12:15 PM** → MERN Backend
-- **12:30 PM - 03:30 PM** → AI/ML
-- **04:00 PM - 07:00 PM** → Cloud Computing (NPTEL)
-- **07:15 PM - 10:15 PM** → Revision & Practice
+## Sessions Completed
+- **9pm- 12AM** → Java / DSA
 
 ## Proof
-- Time tracking screenshot: `/logs/2025-08-02/screenshots/`
-- Code & notes: `/logs/2025-08-02/work/`
+![alt text](<Screenshot 2025-08-03 211109.png>)
+![alt text](<Screenshot 2025-08-03 224804.png>)
+![alt text](<Screenshot 2025-08-03 230324.png>)
+![alt text](<Screenshot 2025-08-03 231533.png>)
+![alt text](<Screenshot 2025-08-03 231654.png>)
+![alt text](<Screenshot 2025-08-03 234050.png>)
+![alt text](<Screenshot 2025-08-03 235345.png>)
