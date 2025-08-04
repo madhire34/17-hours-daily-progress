@@ -4,3 +4,6 @@
 ![alt text](<Screenshot 2025-08-04 105742.png>)
 "revisoned javascript basic - 1hour "
 ![alt text](<Screenshot 2025-08-04 115553.png>)
+"revisoned javascript basic - 1hour "
+![alt text](<Screenshot 2025-08-04 134105.png>)
+![alt text](<Screenshot 2025-08-04 135627.png>)
